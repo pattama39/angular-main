@@ -1,0 +1,84 @@
+{
+  "HEADER":{
+    "SEARCH": {
+      "TEXT": "ค้นหา.."
+    }
+  },
+  "MENUITEMS": {
+    "USER":{
+      "POST": "ผู้จัดการ"
+    },
+    "MAIN": {
+      "TEXT": "-- หลัก"
+    },
+    "HOME": {
+      "TEXT": "หน้าแรก",
+      "LIST": {
+        "DASHBOARD1": "สถิติ 1",
+        "DASHBOARD2": "สถิติ 2",
+        "DASHBOARD3": "สถิติ 3"
+      }
+    },
+    "ADVANCE-TABLE": {
+      "TEXT": "ตารางล่วงหน้า"
+    },
+    "APPS": {
+      "TEXT": "-- แอพ"
+    },
+    "CALENDAR": {
+      "TEXT": "ปฏิทิน"
+    },
+    "TASK": {
+      "TEXT": "งาน"
+    },
+    "CONTACTS": {
+      "TEXT": "รายชื่อผู้ติดต่อ"
+    },
+    "EMAIL": {
+      "TEXT": "อีเมล",
+      "LIST": {
+        "INBOX": "กล่องจดหมาย",
+        "COMPOSE": "เขียน",
+        "READ": "อ่านอีเมล"
+      }
+    },
+    "MORE-APPS": {
+      "TEXT": "แอพเพิ่มเติม",
+      "LIST": {
+        "CHAT": "Chat",
+        "SUPPORT": "Support",
+        "DRAG-DROP": "Drag & Drop",
+        "CONTACT-GRID": "Contact Grid"
+      }
+    },
+    "COMPONENTS": {
+      "TEXT": "-- ส่วนประกอบ"
+    },
+    "WIDGETS": {
+      "TEXT": "วิดเจ็ต",
+      "LIST": {
+        "CHART-WIDGET": "Chart-Widget",
+        "DATA-WIDGET": "Data-Widget"
+      }
+    },
+    "FORMS": {
+      "TEXT": "แบบฟอร์ม",
+      "LIST": {
+        "CONTROLS": "Form Controls",
+        "ADVANCE": "Advance Control",
+        "EXAMPLE": "Form Examples",
+        "VALIDATION": "Form Validation",
+        "WIZARD": "Wizard",
+        "EDITORS": "Editors"
+      }
+    },
+    "TABLES": {
+      "TEXT": "ตาราง",
+      "LIST": {
+        "BASIC": "Basic Tables",
+        "MATERIAL": "Material Tables",
+        "NGX-DATATABLE": "NGX-Datatable"
+      }
+    }
+  }
+}
